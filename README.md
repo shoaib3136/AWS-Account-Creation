@@ -30,8 +30,13 @@ Review and Create IAM User
 ## OUTPUT
 ### REG NUMBER: 212222240094
 ### NAME: Shaik Shoaib Nawaz
+1. Root user:
+![alt text](image.png)
+![alt text](image-1.png)
 
- 
+2. IAM user:
+![alt text](image-2.png)
+![alt text](image-3.png)
  
 ## RESULT:
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
